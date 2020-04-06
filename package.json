@@ -1,0 +1,21 @@
+{
+  "name": "protractor",
+  "version": "1.0.0",
+  "description": "Sample protractor project",
+  "main": "index.js",
+  "scripts": {
+    "webdriver-update": "./node_modules/protractor/bin/webdriver-manager update",
+    "test": "protractor e2e/protractor.conf.js"
+  },
+  "author": "Ivan Paulouski",
+  "license": "ISC",
+  "dependencies": {
+    "protractor": "^5.4.3",
+    "@types/jasmine": "^2.8.7",
+    "@types/jasminewd2": "^2.0.3",
+    "typescript": "^3.4.3",
+    "tslib": "^1.11.1",
+    "ts-node": "^8.8.2",
+    "jasmine-spec-reporter": "^5.0.1"
+  }
+}
