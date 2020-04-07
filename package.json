@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "webdriver-update": "./node_modules/protractor/bin/webdriver-manager update",
-    "test": "protractor e2e/protractor.conf.js"
+    "test": "./node_modules/protractor/bin/protractor e2e/protractor.conf.js"
   },
   "author": "Ivan Paulouski",
   "license": "ISC",

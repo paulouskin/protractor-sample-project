@@ -1,4 +1,4 @@
 Steps to run:
 * npm install
-* npm webdriver-update
-* npm test
+* npm run webdriver-update
+* npm run test
