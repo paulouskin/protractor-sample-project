@@ -1,7 +1,7 @@
 {
-  "name": "protractor",
+  "name": "protractor-cucumberjs-example",
   "version": "1.0.0",
-  "description": "Sample protractor project",
+  "description": "Sample project to play with Typescript + CucumberJs + Protractor",
   "main": "index.js",
   "scripts": {
     "build":"tsc",
